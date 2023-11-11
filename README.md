@@ -3,6 +3,8 @@
 https://fitness-exercises-gym-app.netlify.app/
 
 # Preview
+![image](https://github.com/masoom2313189/fitness-exercises-app/assets/105916377/c600dd49-f300-42f7-9162-1d59912e9b4b)
+
 
 # Getting Started with Create React App
 
